@@ -1,0 +1,66 @@
+
+**¿Qué te ha parecido los temas tratados?**
+
+Los temas tratados en la unidad de Seguridad Informática me han parecido muy completos y adecuados para lo que se espera en un entorno profesional real. Hemos abordado desde los principios básicos de la ciberseguridad hasta procedimientos avanzados como la gestión de incidentes y la respuesta ante amenazas, lo que me ha dado una buena base para entender cómo se protegen las organizaciones contra ataques informáticos. Creo que el enfoque práctico de algunos módulos ha sido muy beneficioso para entender no solo la teoría sino cómo aplicarla.
+
+**¿Qué te ha parecido más útil para tu futuro puesto de trabajo en un equipo de seguridad?**
+
+Sin duda, lo que más útil me ha parecido son los playbooks. Estos son esenciales en la gestión de incidentes, ya que proporcionan un guion detallado de acciones a seguir en caso de un ataque, algo crucial en un Centro de Operaciones de Seguridad (SOC). Aprender a elaborar y seguir un playbook me ha mostrado la importancia de la coordinación y la rapidez en la respuesta, habilidades claves para el éxito en un puesto de seguridad.
+
+**¿Conocías todos los puntos tratados en la unidad? ¿Cuáles no?**
+
+Antes de esta unidad, no estaba completamente familiarizado con los estándares específicos como los del NIST y especialmente con la norma SP800-61. Estos temas me resultaron inicialmente más complejos debido a su profundidad y detalle técnico, pero reconozco que son fundamentales para entender cómo se estructuran las políticas de seguridad a nivel empresarial y gubernamental.
+
+**¿Alguno te ha llamado especialmente la atención? ¿Por qué?**
+
+Los playbooks me han llamado la atención de manera significativa. Ver cómo se pueden estructurar las respuestas a incidentes de manera tan detallada y organizada me ha hecho comprender mejor el funcionamiento interno de los equipos de seguridad y la importancia de tener un plan bien definido. Me ha motivado a pensar en cómo cada paso y cada detalle puede impactar en la efectividad de la respuesta a un incidente.
+
+**¿Descartarías algún punto de la unidad? ¿Cuál y por qué?**
+
+Si tuviera que ajustar algo, sería la profundidad con la que se trató la norma SP800-61. Aunque es importante entender las normativas, la cantidad de detalle teórico podría reducirse a favor de más ejemplos prácticos y estudios de caso que ilustren su aplicación real. Esto ayudaría a comprender mejor cómo implementar estas normas en situaciones reales sin perderse en la teoría.
+
+**¿Has echado en falta algún tema?**
+
+No he echado en falta temas esenciales, pero siempre sería útil incorporar más contenido sobre las últimas tecnologías de seguridad, como la seguridad en entornos de cloud computing, inteligencia artificial en ciberseguridad, o gestión de riesgos en IoT. Estos son campos que están cobrando mucha relevancia y sería ideal tener una introducción a estas áreas para estar preparados para los desafíos futuros en el ámbito de la seguridad informática.
+
+**RESUMEN DE LA UNIDAD**
+
+**1. Marco de Ciberseguridad del NIST**
+
+- **Identificación**: Reconocimiento de activos, riesgos, y definición de roles.
+- **Protección**: Implementación de controles de seguridad, cifrado, y políticas de acceso.
+- **Detección**: Monitoreo de sistemas y análisis de comportamientos inusuales.
+- **Respuesta**: Procedimientos para notificar a afectados y gestionar incidentes.
+- **Recuperación**: Restauración de sistemas y medidas para reanudar operaciones normales.
+
+**2. Procesos de Respuesta a Incidentes (SP800-61 & ISO/IEC 27035)**
+
+- **Preparación**: Formación de equipos de respuesta, definición de planes y herramientas.
+- **Detección y Reporte**: Uso de SIEM y otros sistemas para detectar y reportar incidentes.
+- **Análisis**: Evaluación del incidente para determinar el alcance y el impacto.
+- **Contención**: Estrategias para limitar el daño del incidente.
+- **Erradicación**: Eliminación de la causa raíz y de los componentes afectados.
+- **Recuperación**: Restauración de servicios y sistemas a operaciones normales.
+- **Post-Incidente**: Revisión del incidente, aprendizaje y mejora de procesos.
+
+**3. Playbooks**
+
+- Documentos detallados para responder a tipos específicos de incidentes.
+- Facilitan una respuesta rápida y coordinada dentro de un SOC.
+
+**4. Lecciones Aprendidas y Mejora Continua**
+
+- Evaluación post-incidente para identificar y aplicar mejoras.
+- Desarrollo de informes de seguimiento y actualización de playbooks y planes de respuesta.
+
+**5. Aspectos Clave para la Gestión de Incidentes**
+
+- **Retención de Evidencia**: Protocolos para preservar información crítica durante y después de incidentes.
+- **Notificación de Incidentes**: Comunicación efectiva dentro y fuera de la organización.
+- **Evaluación de Impacto**: Determinar la severidad del incidente para priorizar recursos y respuestas.
+
+**6. Herramientas y Recursos**
+
+- Uso de tecnologías de monitorización como SIEM.
+- Aplicación de herramientas de análisis forense y de integridad de archivos.
+
